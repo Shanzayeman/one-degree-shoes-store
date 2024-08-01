@@ -1,0 +1,525 @@
+body {
+    margin: 0px;
+}
+
+#div1 {
+    border-bottom: 1px solid black;
+    height: 40px;
+}
+
+#icon1 {
+    position: absolute;
+    top: 15px;
+    left: 200px;
+    color: black;
+}
+
+#icon2 {
+    position: absolute;
+    top: 14px;
+    left: 250px;
+    color: black;
+}
+
+#h1 {
+    position: absolute;
+    font-size: x-large;
+    left: 570px;
+}
+
+#round1 {
+    position: absolute;
+    border: 2px solid black;
+    width: 4px;
+    height: 5px;
+    border-radius: 5px;
+    top: 15px;
+    right: 634px;
+}
+
+#icon3 {
+    position: absolute;
+    top: 16px;
+    right: 290px;
+    color: black;
+}
+
+#div2 {
+    border: 1px solid white;
+    width: 900px;
+    height: 600%;
+    margin-top: 0px;
+    margin-left: 220px;
+}
+
+#icon4 {
+    color: black;
+    margin-top: 120px;
+}
+
+#h21 {
+    position: absolute;
+    top: 28px;
+    left: 480px;
+}
+
+#first {
+    margin-left: 17px;
+    color: black;
+}
+
+#a1 {
+    text-decoration: none;
+}
+
+#lab1 {
+    margin-left: 160px;
+}
+
+#selec {
+    width: 150px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#img1 {
+    margin-left: 200px;
+}
+
+#div3 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 320px;
+    margin-top: 40px;
+}
+
+#img4 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#btn1 {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.p5 {
+    font-size: small;
+    margin-left: 12px;
+    color: rgb(95, 94, 94);
+}
+
+.p6 {
+    font-size: small;
+    margin-left: 12px;
+}
+
+#btn2 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+}
+
+#btn3 {
+    width: 15px;
+    height: 15px;
+    border-radius: 12px;
+    position: absolute;
+    left: 235px;
+    top: 510px;
+    background-color: navy;
+    border: 1px solid navy;
+}
+
+#div4 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 320px;
+    position: absolute;
+    top: 227px;
+    left: 505px;
+}
+
+#img5 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#inp1 {
+    margin-left: 10px;
+}
+
+#btn2nd {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp2 {
+    margin-left: 10px;
+}
+
+#btn4 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+    position: absolute;
+    top: 509px;
+    left: 515px;
+}
+
+#div5 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 320px;
+    position: absolute;
+    top: 227px;
+    left: 790px;
+}
+
+#img6 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#btn3rd {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp3 {
+    margin-left: 10px;
+}
+
+#btn5 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+}
+
+#btn6 {
+    width: 15px;
+    height: 15px;
+    border-radius: 12px;
+    position: absolute;
+    left: 13px;
+    top: 278px;
+    background-color: rgb(8, 8, 8);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#div6 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 320px;
+    margin-top: 30px;
+}
+
+#img7 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#btn4th {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp4 {
+    margin-left: 10px;
+}
+
+#btn7 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+}
+
+#btn8 {
+    width: 15px;
+    height: 15px;
+    border-radius: 12px;
+    position: absolute;
+    left: 235px;
+    top: 858px;
+    background-color: gray;
+    border: 1px solid gray;
+}
+
+#div7 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 320px;
+    position: absolute;
+    top: 579px;
+    left: 505px;
+}
+
+#img8 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#btn5th {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp5 {
+    margin-left: 10px;
+}
+
+#btn9 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+    position: absolute;
+    top: 279px;
+    left: 9px;
+}
+
+#btn10 {
+    width: 15px;
+    height: 15px;
+    border-radius: 12px;
+    position: absolute;
+    left: 12px;
+    top: 282px;
+    background-color: seagreen;
+    border: 1px solid seagreen;
+}
+
+#div8 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 319px;
+    position: absolute;
+    top: 0px;
+    left: 285px;
+}
+
+#img9 {
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+#btn6th {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp6 {
+    margin-left: 10px;
+}
+
+#btn11 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+    position: absolute;
+    top: 279px;
+    left: 9px;
+}
+
+#div9 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 319px;
+    position: absolute;
+    top: 920px;
+    left: 221px;
+}
+
+#img10 {
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+#btn7th {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp7 {
+    margin-left: 10px;
+}
+
+#btn12 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+}
+
+#div10 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 319px;
+    position: absolute;
+    top: 920px;
+    left: 507px;
+}
+
+#img11 {
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+#btn8th {
+    width: 230px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(66, 65, 65);
+    margin-left: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#inp8 {
+    margin-left: 10px;
+}
+
+#btn13 {
+    width: 22px;
+    height: 22px;
+    border-radius: 15px;
+    border: 1px solid rgb(80, 78, 78);
+}
+
+#div11 {
+    border: 1px solid rgb(247, 242, 242);
+    width: 250px;
+    height: 319px;
+    position: absolute;
+    top: 920px;
+    left: 790px;
+}
+
+#img12 {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#footer {
+    width: 100%;
+    border: 1px solid black;
+    height: 550px;
+    margin-top: 350px;
+    background-color: black;
+}
+
+#foot1 {
+    width: 200px;
+    height: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#h41 {
+    margin-left: 10px;
+    color: white;
+}
+
+p {
+    margin-left: 10px;
+    color: white;
+}
+
+#tea {
+    text-decoration: none;
+}
+
+#foot2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    right: 550px;
+    top: 1280px;
+}
+
+#foot3 {
+    width: 200px;
+    height: 180px;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    right: 150px;
+    top: 1280px;
+}
+
+#fb {
+    border: 1px solid rgb(12, 12, 12);
+    border-radius: 11px;
+    margin-left: 500px;
+}
+
+#ho {
+    color: white;
+}
+
+#inst {
+    border: 1px solid rgb(12, 12, 12);
+    border-radius: 11px;
+    margin-left: 25px;
+}
+#twit{
+    border: 1px solid rgb(12, 12, 12);
+    border-radius: 11px;
+    margin-left: 25px;
+}
+#three{
+    float: right;
+}
+.least{
+    color: white;
+    text-decoration: none;
+    font-size: small;
+}
+.least:hover{
+    text-decoration: underline;
+    color: white;
+}
+#at{
+    margin-left: 440px;
+}
